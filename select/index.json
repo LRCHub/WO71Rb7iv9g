@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Hot Air Balloon",
+  "base_artist": "aespa",
+  "createdAt": "2026-02-11T06:47:50.907488Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hot Air Balloon",
+      "artist": "Don Diablo feat. AR/CO",
+      "has_synced": true,
+      "path": "select/01_Hot_Air_Balloon_Don_Diablo_feat._AR_CO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hot Air Balloon",
+      "artist": "Don Diablo & AR/CO",
+      "has_synced": true,
+      "path": "select/02_Hot_Air_Balloon_Don_Diablo_&_AR_CO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hot Air Balloon",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/03_Hot_Air_Balloon_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hot Air Balloon (Album Version)",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/04_Hot_Air_Balloon_(Album_Version)_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hot Air Balloon",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/05_Hot_Air_Balloon_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hot Air Balloon",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/06_Hot_Air_Balloon_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hot Air Balloon",
+      "artist": "Grizz",
+      "has_synced": false,
+      "path": "select/07_Hot_Air_Balloon_Grizz.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hot Air Balloon",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/08_Hot_Air_Balloon_aespa.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hot Air Balloon",
+      "artist": "Don Diablo & AR/CO",
+      "has_synced": true,
+      "path": "select/09_Hot_Air_Balloon_Don_Diablo_&_AR_CO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hot Air Balloon",
+      "artist": "aespa (에스파)",
+      "has_synced": true,
+      "path": "select/10_Hot_Air_Balloon_aespa_(에스파).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Birds Attacked My Hot Air Balloon",
+      "artist": "Pile",
+      "has_synced": true,
+      "path": "select/11_The_Birds_Attacked_My_Hot_Air_Balloon_Pile.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hot Air Balloon",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/12_Hot_Air_Balloon_aespa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hot Air Balloon",
+      "artist": "Derek Minor feat. Kiya Lacey",
+      "has_synced": true,
+      "path": "select/13_Hot_Air_Balloon_Derek_Minor_feat._Kiya_Lacey.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hot Air Balloon (feat. Kiya Lacey)",
+      "artist": "Derek Minor",
+      "has_synced": true,
+      "path": "select/14_Hot_Air_Balloon_(feat._Kiya_Lacey)_Derek_Minor.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hot Air Balloon",
+      "artist": "The National Parks",
+      "has_synced": true,
+      "path": "select/15_Hot_Air_Balloon_The_National_Parks.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hot Air Balloons",
+      "artist": "Some Girls",
+      "has_synced": false,
+      "path": "select/16_Hot_Air_Balloons_Some_Girls.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hot Air Ballon",
+      "artist": "Don Diablo, AR/CO",
+      "has_synced": true,
+      "path": "select/17_Hot_Air_Ballon_Don_Diablo,_AR_CO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hot Air Balloon",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Hot_Air_Balloon_aespa.txt"
+    }
+  ]
+}
